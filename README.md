@@ -1,5 +1,5 @@
 # journey
-# Personal project designed and developed in Cooperation with Kyle Robinson and Sabryn Bleys
+# Personal project designed and developed in Cooperation with Kyle Robinson and Sabryn Bley
 
 Srart learning here:
 
