@@ -1,7 +1,7 @@
 # journey
-# Personal project designed and developed in Cooperation with Kyle Robinson and Sabryn Bley
+# Personal project designed and developed in cooperation with Kyle Robinson and Sabryn Bley.
 
-Srart learning here:
+Start learning here:
 
 https://www.lwjgl.org/
 
